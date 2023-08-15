@@ -5,7 +5,7 @@ Experiment with different regression models such as Linear Regression, Random Fo
 
 Assess the model's performance on a test dataset using various evaluation metrics. Visualize the predicted vs. actual prices to understand the model's accuracy.
 
- Dependencies
+- Dependencies
   
        Python 3.7+
        NumPy
