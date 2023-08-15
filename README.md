@@ -14,3 +14,4 @@ Assess the model's performance on a test dataset using various evaluation metric
        matplotlib
        seaborn
     
+![image](https://github.com/Debmallya-Panja/Real-estate-price-prediction-using-machine-learning-/assets/140999209/39f52735-ce3a-47c1-b617-ebb8a6bd4794)
